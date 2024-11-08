@@ -5,7 +5,7 @@
                                     
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/.ipyn)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/.ipyn](https://github.com/mr-vermaji/LPRPDV_adityasirji))
 
 ## Deploy To Heroku
 
