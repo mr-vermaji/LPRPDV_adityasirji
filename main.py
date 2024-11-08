@@ -32,7 +32,7 @@ import logging
 bot = Client("bot",
              bot_token= "7890964725:AAF6f2M0f5TpnNqrSQ9tLnFoOXIEfbhDVxE",
              api_id= 23466621,
-             api_hash= "f00216c5551e68abb50927f43d7117d1)
+             api_hash= "f00216c5551e68abb50927f43d7117d1")
 
 
 @bot.on_message(filters.command(["start"]))
